@@ -2,43 +2,110 @@
 
 ## 👋 About Me
 
-System Engineer Intern with strong foundations in Linux, networking, and cloud infrastructure.
+System Engineer Intern with strong foundations in **Linux, networking, and cloud infrastructure**.
+Experienced in building **scalable, reliable, and containerized systems** using AWS, Docker, and Linux.
 
 ---
 
 ## 🧑‍💻 Featured Projects
 
-### 🔹 AWS Scalable Infrastructure
+### 🔹 AWS Scalable System
 
-* EC2 + Load Balancer + Auto Scaling
-* High availability system
+* Deployed web application on AWS EC2
+* Configured Elastic Load Balancer and Auto Scaling
+* Implemented monitoring using CloudWatch
+  👉 Focus: High availability & scalability
+  🔗 https://github.com/Cndinh3124/aws-scalable-system
+
+---
+
+### 🔹 Docker Multi-Website System
+
+* Deployed multiple web applications using Docker Compose
+* Configured Nginx as reverse proxy
+* Implemented DNS routing with dnsmasq
+  👉 Focus: Multi-service architecture & container networking
+  🔗 https://github.com/Cndinh3124/docker-multi-website-system
+
+---
 
 ### 🔹 Linux Web Server
 
-* Nginx + PHP + MySQL
-* System monitoring & troubleshooting
+* Deployed Nginx + PHP + MySQL on Ubuntu Server
+* Managed services using systemctl
+* Performed log monitoring and troubleshooting
+  👉 Focus: System administration & debugging
+  🔗 https://github.com/Cndinh3124/linux-web-server
 
-### 🔹 Dockerized System
+---
 
-* Multi-container architecture
-* Consistent deployment
+### 🔹 Windows Server Infrastructure
+
+* Configured Active Directory Domain Services (AD DS)
+* Implemented DNS and DHCP services
+* Managed users, groups, and policies
+  👉 Focus: Enterprise system management
+  🔗 https://github.com/Cndinh3124/windows-server-infrastructure
 
 ---
 
 ## 🛠 Tech Stack
 
-* Linux, Windows Server
-* AWS, Docker
-* Networking (OSPF, VLAN, BGP)
+### 💻 System
+
+* Linux (Ubuntu Server), Windows Server
+
+### ☁️ Cloud
+
+* AWS EC2, Elastic Load Balancer, Auto Scaling, CloudWatch
+
+### 🐳 DevOps
+
+* Docker, Docker Compose
+
+### 🌐 Networking
+
+* TCP/IP, DNS, DHCP, VLAN, Routing
+
+### 🔐 Security
+
+* Incident Response
+* SQL Injection (basic)
 
 ---
 
 ## 🏆 Achievements
 
-👉 https://github.com/Cndinh3124/achievements-and-activities
+* President – Student Union
+* Executive Committee – Vietnam National Union of Students
+* Multiple Certificates of Merit (2024–2026)
+
+👉 Full details:
+https://github.com/Cndinh3124/achievements-and-activities
+
+---
+
+## 📂 Repository Structure
+
+* aws-scalable-system
+* docker-multi-website-system
+* linux-web-server
+* windows-server-infrastructure
+* achievements-and-activities
+
+---
+
+## 🎯 Career Goal
+
+To become a System Engineer specializing in **cloud infrastructure, system reliability, and automation**.
 
 ---
 
 ## 📫 Contact
 
 * Email: [nguyencongdinhh@gmail.com](mailto:nguyencongdinhh@gmail.com)
+* GitHub: https://github.com/Cndinh3124
+
+---
+
+⭐ Focus: System Reliability • Infrastructure • Automation
