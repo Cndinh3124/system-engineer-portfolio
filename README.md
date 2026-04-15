@@ -14,6 +14,7 @@ Experienced in building **scalable, reliable, and containerized systems** using 
 * Deployed web application on AWS EC2
 * Configured Elastic Load Balancer and Auto Scaling
 * Implemented monitoring using CloudWatch
+  
   👉 Focus: High availability & scalability
   🔗 https://github.com/Cndinh3124/aws-autoscaling-system
 
@@ -24,6 +25,7 @@ Experienced in building **scalable, reliable, and containerized systems** using 
 * Deployed multiple web applications using Docker Compose
 * Configured Nginx as reverse proxy
 * Implemented DNS routing with dnsmasq
+  
   👉 Focus: Multi-service architecture & container networking
   🔗 https://github.com/Cndinh3124/docker-multi-website-system
 
@@ -34,6 +36,7 @@ Experienced in building **scalable, reliable, and containerized systems** using 
 * Deployed Nginx + PHP + MySQL on Ubuntu Server
 * Managed services using systemctl
 * Performed log monitoring and troubleshooting
+  
   👉 Focus: System administration & debugging
   🔗 https://github.com/Cndinh3124/linux-web-server
 
@@ -44,6 +47,7 @@ Experienced in building **scalable, reliable, and containerized systems** using 
 * Configured Active Directory Domain Services (AD DS)
 * Implemented DNS and DHCP services
 * Managed users, groups, and policies
+  
   👉 Focus: Enterprise system management
   🔗 https://github.com/Cndinh3124/windows-server-infrastructure
 
