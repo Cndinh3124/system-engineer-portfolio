@@ -1,53 +1,44 @@
-#  Cong Dinh Nguyen
+# 🚀 Cong Dinh Nguyen - System Engineer Portfolio
 
- System Engineer Intern | Infrastructure & Cloud
+## 👋 About Me
+
+System Engineer Intern with strong foundations in Linux, networking, and cloud infrastructure.
 
 ---
 
-##  About Me
+## 🧑‍💻 Featured Projects
 
-* Strong foundation in **Linux systems and networking**
-* Hands-on experience with **AWS, Docker, and system deployment**
-* Focused on building **scalable and reliable systems**
+### 🔹 AWS Scalable Infrastructure
+
+* EC2 + Load Balancer + Auto Scaling
+* High availability system
+
+### 🔹 Linux Web Server
+
+* Nginx + PHP + MySQL
+* System monitoring & troubleshooting
+
+### 🔹 Dockerized System
+
+* Multi-container architecture
+* Consistent deployment
 
 ---
 
 ## 🛠 Tech Stack
 
 * Linux, Windows Server
-* AWS (EC2, ELB, Auto Scaling, CloudWatch)
-* Docker, Docker Compose
-* Networking (OSPF, BGP, VLAN)
+* AWS, Docker
+* Networking (OSPF, VLAN, BGP)
 
 ---
 
-##  Featured Projects
+## 🏆 Achievements
 
-### 🔹 AWS Scalable Infrastructure
-
-High-availability system using EC2 + ELB + Auto Scaling
-
-### 🔹 Linux Web Server
-
-Nginx + PHP + MySQL deployment
-
-### 🔹 Docker System
-
-Multi-container architecture
-
-### 🔹 Enterprise Infrastructure
-
-DNS, DHCP, VPN, Mail Server
+👉 https://github.com/ncdunh312/achievements-and-activities
 
 ---
 
-##  Achievements
+## 📫 Contact
 
-* President – Student Union
-* Executive Committee – Vietnam National Union of Students
-
----
-
-##  Contact
-
-📧 [nguyencongdinhh@gmail.com](mailto:nguyencongdinhh@gmail.com)
+* Email: [nguyencongdinhh@gmail.com](mailto:nguyencongdinhh@gmail.com)
