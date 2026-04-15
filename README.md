@@ -15,7 +15,7 @@ Experienced in building **scalable, reliable, and containerized systems** using 
 * Configured Elastic Load Balancer and Auto Scaling
 * Implemented monitoring using CloudWatch
   👉 Focus: High availability & scalability
-  🔗 https://github.com/Cndinh3124/aws-scalable-system
+  🔗 https://github.com/Cndinh3124/aws-autoscaling-system
 
 ---
 
