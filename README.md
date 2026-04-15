@@ -22,6 +22,7 @@ Hands-on experience with:
 * Built a system that automatically scales based on traffic load
   
   👉 Focus: High availability & scalability
+  
   🔗 https://github.com/Cndinh3124/aws-autoscaling-system
 
 ---
@@ -34,6 +35,7 @@ Hands-on experience with:
 * Enabled multiple websites to run on a single server
   
   👉 Focus: Multi-service architecture & container networking
+  
   🔗 https://github.com/Cndinh3124/docker-multi-website-system
 
 ---
@@ -46,6 +48,7 @@ Hands-on experience with:
 * Ensured stable and reliable server operation
   
   👉 Focus: System administration & debugging
+  
   🔗 https://github.com/Cndinh3124/linux-web-server
 
 ---
@@ -58,6 +61,7 @@ Hands-on experience with:
 * Built centralized system management for enterprise environment
   
   👉 Focus: Enterprise system management
+
   🔗 https://github.com/Cndinh3124/windows-server-infrastructure
 
 ---
